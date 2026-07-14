@@ -55,14 +55,14 @@ class _ProductCatalogScreenState extends State<ProductCatalogScreen> {
 
   // Sample items list (Products)
   final List<Product> _products = [
-    Product(name: 'Laptop', description: 'High performance gaming laptop', price: '$999', icon: Icons.laptop),
-    Product(name: 'Smartphone', description: 'Latest 5G Android phone', price: '$699', icon: Icons.phone_android),
-    Product(name: 'Headphones', description: 'Wireless noise cancelling', price: '$199', icon: Icons.headphones),
-    Product(name: 'Smartwatch', description: 'Fitness tracker with GPS', price: '$149', icon: Icons.watch),
-    Product(name: 'Camera', description: 'DSLR camera for photography', price: '$499', icon: Icons.camera_alt),
-    Product(name: 'Tablet', description: '10-inch screen for drawing', price: '$299', icon: Icons.tablet_mac),
-    Product(name: 'Keyboard', description: 'Mechanical RGB keyboard', price: '$89', icon: Icons.keyboard),
-    Product(name: 'Speaker', description: 'Portable bluetooth speaker', price: '$59', icon: Icons.speaker),
+    Product(name: 'Laptop', description: 'High performance gaming laptop', price: '\$999', icon: Icons.laptop),
+    Product(name: 'Smartphone', description: 'Latest 5G Android phone', price: '\$699', icon: Icons.phone_android),
+    Product(name: 'Headphones', description: 'Wireless noise cancelling', price: '\$199', icon: Icons.headphones),
+    Product(name: 'Smartwatch', description: 'Fitness tracker with GPS', price: '\$149', icon: Icons.watch),
+    Product(name: 'Camera', description: 'DSLR camera for photography', price: '\$499', icon: Icons.camera_alt),
+    Product(name: 'Tablet', description: '10-inch screen for drawing', price: '\$299', icon: Icons.tablet_mac),
+    Product(name: 'Keyboard', description: 'Mechanical RGB keyboard', price: '\$89', icon: Icons.keyboard),
+    Product(name: 'Speaker', description: 'Portable bluetooth speaker', price: '\$59', icon: Icons.speaker),
   ];
 
   // Function called when the Special Offer button is pressed
