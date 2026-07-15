@@ -66,7 +66,7 @@ This assignment includes the following Flutter concepts:
 2. Open the project directory:
 
    ```bash
-   cd C:\Users\arpit\Desktop\Assignments
+   cd project_path
    ```
 
 3. Run the application:
@@ -112,7 +112,7 @@ lib/
 
 ## 📸 Output Screenshots
 
-Below are placeholders for the screenshots. Once you take the screenshots, save them in the `assets/` folder with the filenames `list_view_screenshot.png` and `grid_view_screenshot.png`. They will automatically display below with nice borders and alignment.
+Below are the screenshots.If not loaded properly please check in the `assets/` folder with the filenames `list_view_screenshot.png` and `grid_view_screenshot.png`.
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
